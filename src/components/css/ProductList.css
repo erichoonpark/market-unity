@@ -1,0 +1,6 @@
+#root > div > div.container > div > div > div > img {
+  width: 100px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
